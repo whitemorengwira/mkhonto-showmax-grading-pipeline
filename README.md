@@ -1,3 +1,7 @@
+![Mkhonto — N.White Systems engineering portfolio](assets/portfolio-brand.svg)
+
+[Portfolio overview](https://github.com/whitemorengwira) · [All case studies](https://github.com/whitemorengwira/nwhitesystems) · [N.White Systems](https://nwhite.systems/)
+
 # Mkhonto — Production Engineering & Workflow Architecture
 ## Showmax · Original Feature Film · Film & TV · Client: M'Darkie Revolution
 
